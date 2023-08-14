@@ -18,6 +18,6 @@
   "dependencies": {
     "download": "^8.0.0",
     "extract-zip": "^2.0.1",
-    "mapshaper": "^0.5.30"
+    "mapshaper": "^0.6.41"
   }
 }
